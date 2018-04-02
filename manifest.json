@@ -1,0 +1,6 @@
+{
+  "name": "vue-vux-leancloud-template",
+  "version": "0.0.1",
+  "title": "完整的项目模版",
+  "description": "一个完整的项目模版, 包括vue, vux, webpack, leancloud"
+}

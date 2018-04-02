@@ -1,0 +1,27 @@
+.DS_Store
+node_modules
+dist
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.ex.less
+*.ex.js
+gentest.*
+add
+add.bat
+g
+g.bat
+src/shared/form/dashbord_list/*
+src/shared/form/form_edit/*
+src/assets/stylus/alicdn.ex.config
+# src/shared/ctrl/formCell
+static/js/bscroll@1.5.5.min.js
+# !src/components/*/views/*.ex.js
+# yarn.lock
